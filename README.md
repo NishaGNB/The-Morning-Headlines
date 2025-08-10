@@ -1,4 +1,4 @@
-Project Final 2.0 – n8n Workflow
+DailyNews – n8n Workflow
 
 This repository contains an n8n automation that creates and delivers a daily briefing.  
 The briefing includes:
