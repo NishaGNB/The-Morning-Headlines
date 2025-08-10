@@ -136,7 +136,7 @@
     {
       "parameters": {
         "from": "+14155238886",
-        "to": "+919148605869",
+        "to": "+91914860****",
         "toWhatsapp": true,
         "message": "={{ $json.output }}",
         "options": {}
@@ -158,7 +158,7 @@
     },
     {
       "parameters": {
-        "url": "https://newsapi.org/v2/everything?q=keyword&apiKey=c3efdc9f99244614a192ff79c2a05474",
+        "url": "https://newsapi.org/v2/everything?q=keyword&apiKey=YOUR_KEY",
         "options": {}
       },
       "id": "e59d784f-3cff-4740-8c8e-7e5fd3667c0a",
